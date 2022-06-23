@@ -1,0 +1,2 @@
+test
+-DCATKIN_DEVEL_PREFIX=/home/nekorectifier/Documents/work_dir/devel -DCMAKE_INSTALL_PREFIX=/home/nekorectifier/Documents/work_dir/install -G Unix Makefiles

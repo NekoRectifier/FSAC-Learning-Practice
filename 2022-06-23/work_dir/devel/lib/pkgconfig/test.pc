@@ -1,0 +1,8 @@
+prefix=/home/nekorectifier/Documents/work_dir/devel
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
